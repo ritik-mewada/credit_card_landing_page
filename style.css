@@ -96,8 +96,8 @@ nav {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url("./Assets/Photos/backCards.png"),
-    url("./Assets/Photos/frontCards.png");
+  background-image: url("Assets/Photos/backCards.png"),
+    url("Assets/Photos/frontCards.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 30rem -4rem, 43rem 0;
@@ -211,7 +211,7 @@ span {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-image: url("./Assets/Photos/VCards.png");
+    background-image: url("Assets/Photos/VCards.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center bottom;
@@ -250,7 +250,7 @@ span {
     width: 90%;
     height: 90%;
     z-index: -1;
-    background-image: url("./Assets/Photos/VCards.png");
+    background-image: url("Assets/Photos/VCards.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -623,10 +623,10 @@ span {
   align-items: center;
   text-align: center;
   row-gap: 4rem;
-  background: url("./Assets/Photos/Diamond-right.png") no-repeat,
-    url("./Assets/Photos/Diamond-left.png") no-repeat,
-    url("./Assets/Photos/Rectangle 6774.png") no-repeat,
-    url("./Assets/Photos/Rectangle 6773.png") no-repeat;
+  background: url("Assets/Photos/Diamond-right.png") no-repeat,
+    url("Assets/Photos/Diamond-left.png") no-repeat,
+    url("Assets/Photos/Rectangle 6774.png") no-repeat,
+    url("Assets/Photos/Rectangle 6773.png") no-repeat;
   background-size: auto, auto, cover, cover;
   background-position: top 0 left 0, top 1.5rem right 0, 0 0, 0 0;
   padding: 10rem 2rem;
